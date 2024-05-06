@@ -1,0 +1,23 @@
+Python, single-line comments are denoted by the # symbol, while multi-line comments are typically enclosed within triple quotes """ """. However, multi-line comments are not treated as comments by the Python interpreter, but rather as string literals.
+
+# This is a single-line comment
+print("Hello, World!")  # This is another single-line comment
+
+"""
+This is a multi-line comment.
+It spans multiple lines,
+but it's actually a string literal.
+"""
+print("Python is awesome!")
+
+
+In the above code:
+
+Lines starting with # are single-line comments.
+Comments after code on the same line are also single-line comments.
+The text enclosed within triple quotes """ """ is considered a multi-line string literal, which can serve a similar purpose to multi-line comments but won't be ignored by the interpreter.
+
+
+
+
+
