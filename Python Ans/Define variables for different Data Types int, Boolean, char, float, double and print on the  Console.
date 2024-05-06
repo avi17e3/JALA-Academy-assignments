@@ -1,1 +1,14 @@
+# Define variables for different data types
+integer_var = 10
+boolean_var = True
+char_var = 'A'
+float_var = 3.14
+double_var = 3.141592653589793238
+
+# Print variables on the console
+print("Integer Variable:", integer_var)
+print("Boolean Variable:", boolean_var)
+print("Character Variable:", char_var)
+print("Float Variable:", float_var)
+print("Double Variable:", double_var)
 
